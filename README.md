@@ -1,7 +1,8 @@
 # Road-Signs-Detection
 Traffic Sign Recognition Using Convolution Neural Network
 
-Notes for Code Execution -
+# Notes for Code Execution -
+
 First import the kaggle dataset by running the first 5 lines of code and entering the username and key provided.
 Now place, 'train.pickle', 'data2.pickle', 'labels.csv' files in the same folder as the '.ipynb' file.
 Run the code starting from inputs using Jupyter Notebook.
